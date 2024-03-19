@@ -1,4 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Website Básico</title>
+  <style>
+    /* Estilos CSS opcionais podem ser adicionados aqui */
+  </style>
+</head>
 
 <body>
   <h1>Título Principal</h1>
